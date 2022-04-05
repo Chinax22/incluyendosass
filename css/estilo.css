@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+.encabezado h3 {
+  font-family: "Parisienne", cursiva;
+  font-size: 1.5em;
+  text-align: center; }
+  .encabezado h3 em {
+    font-family: "Roboto", sans-serif; }
+
+.navbar {
+  background-color: #7fbfda;
+  font-family: "Roboto", sans-serif;
+  padding: 5px 20px; }
